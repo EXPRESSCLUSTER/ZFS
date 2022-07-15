@@ -1,4 +1,5 @@
-# How to Deploy ZFS on Ubuntu 20.04
+# How to Deploy ZFS on Mirror Disk with Ubuntu 20.04
+- This article shows how to crate zpool on a mirror disk.
 
 ## Sample Configuration
 - Ubuntu 20.04.4 LTS
